@@ -1,8 +1,4 @@
-import logo from "./logo.svg";
-import "./App.css";
-import Body from "./Components/Body";
-
-function App() {
+function Body() {
   return (
     // <div className="App">
     //   <header className="App-header">
@@ -20,8 +16,8 @@ function App() {
     //     </a>
     //   </header>
     // </div>
-    <Body />
+    <div>I dont know what you expected</div>
   );
 }
 
-export default App;
+export default Body;
